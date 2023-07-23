@@ -1,16 +1,19 @@
-# todoey
+# Todoey ✓
 
-A new Flutter project.
+Todoey is a todolist app to keep track of all your tasks. You can add as many tasks as you want and once you're done with them, simply press aand hold the tasks to delete them from the list!
 
-## Getting Started
+## What all did I learn through this project?
 
-This project is a starting point for a Flutter application.
+- Understood what is state and why we need to manage it.
+- Understood the difference between ephemeral (local) state and app state.
+- See the problems with simply relying on setState().
+- Learn about the concept of Prop Drilling.
+- Examine various popular ways of managing app state for Flutter projects.
+- Learn about the List Builder.
+- Use the Flutter BottomSheet Widget.
+- Learn to lift state up to be able to access it from children widgets.
+- Learn about design patterns and why they are useful.
+-Understood how the Provider package works and use it to manage app state.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/kichuman28/Todoey-App/assets/97717315/db7b2be7-e682-474b-b475-b22d61202cf1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
